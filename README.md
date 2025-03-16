@@ -19,7 +19,7 @@
 
 ## 🌐 Connect with Me
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/isuru-shehan" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
@@ -65,7 +65,7 @@
 
 ## ☕ Support Me
 
-<p>
+<p align="center">
   <a href="https://www.buymeacoffee.com/isurushehan">
     <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" />
   </a>
